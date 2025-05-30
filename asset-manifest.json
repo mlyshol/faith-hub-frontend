@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/faith-hub-frontend/static/css/main.81eb0341.css",
+    "main.js": "/faith-hub-frontend/static/js/main.6e41353f.js",
+    "static/js/453.92c09cf4.chunk.js": "/faith-hub-frontend/static/js/453.92c09cf4.chunk.js",
+    "static/media/sermons_bg.jpg": "/faith-hub-frontend/static/media/sermons_bg.a273e69406e277364cae.jpg",
+    "index.html": "/faith-hub-frontend/index.html",
+    "main.81eb0341.css.map": "/faith-hub-frontend/static/css/main.81eb0341.css.map",
+    "main.6e41353f.js.map": "/faith-hub-frontend/static/js/main.6e41353f.js.map",
+    "453.92c09cf4.chunk.js.map": "/faith-hub-frontend/static/js/453.92c09cf4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.81eb0341.css",
+    "static/js/main.6e41353f.js"
+  ]
+}
